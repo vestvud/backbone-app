@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="29px" height="13px" viewBox="0 0 29 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <g id="Page-1" stroke="none" stroke-width="1" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="arrow_next" sketch:type="MSLayerGroup">
+            <path d="M1.025,5.409 L25.111,5.409 L21.843,2.141 C21.452,1.751 21.452,1.118 21.843,0.727 C22.234,0.336 22.867,0.336 23.257,0.727 L28.207,5.677 C28.409,5.879 28.502,6.145 28.495,6.409 C28.502,6.673 28.409,6.939 28.207,7.141 L23.257,12.091 C22.866,12.482 22.233,12.482 21.843,12.091 C21.452,11.7 21.452,11.067 21.843,10.676 L25.111,7.409 L1.025,7.409 C0.473,7.409 0.025,6.961 0.025,6.409 C0.025,5.857 0.473,5.409 1.025,5.409 L1.025,5.409 Z" id="Shape" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
