@@ -1,2 +1,2 @@
-backbone boilerplate
+backbone-marionette boilerplate
 # backbone-app
