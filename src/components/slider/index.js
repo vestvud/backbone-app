@@ -5,7 +5,7 @@ var Marionette = require('backbone.marionette');
 var Model = require('./model/index_model');
 
 module.exports = Marionette.ItemView.extend({
-  className: 'index',
+  className: 'slider',
   template: require('./index.jade'),
   initialize: function(options) {
     this.model = new Model({
