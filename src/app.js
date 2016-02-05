@@ -30,7 +30,7 @@ var App = Marionette.Application.extend({
   },
   onNavClick: function(){
     var that = this;
-    $('a.j-nav').on('click', function(e){
+    $('.app').on('click', 'a.j-nav', function(e){
       e.preventDefault();
       var href = $(this).attr('href');
       that.router.navigate(href, {
